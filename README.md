@@ -1,1 +1,1 @@
-# Demo
+# DS Coursera
